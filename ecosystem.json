@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "website-blog",
-      "script": "app.js",
+      "script": "blog.js",
       "env": {
         "COMMON_VARIABLE": "true",
       },
